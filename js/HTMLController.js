@@ -1,7 +1,4 @@
-const { module } = require("angular")
-
 function HTMLController () {
-
 };
 
 angular
